@@ -42,6 +42,9 @@ Desarrollar una implementación completa de Breakout que:
 retro-02-breakout-arcade/
 ├── docs/
 │   ├── design/
+│   │   ├── vision.md
+│   │   ├── roadmap.md
+│   │   └── game-analysis.md 
 │   ├── theory/
 │   ├── diagrams/
 │   └── devlog/
@@ -49,6 +52,15 @@ retro-02-breakout-arcade/
 ├── assets/
 └── README.md
 ```
+---
+
+## 📖 Documentación
+
+* Diseño → `docs/design/`
+    - [Visión del proyecto](docs/design/vision.md)
+    - [Roadmap](docs/design/roadmap.md)
+    - [Análisis del juego](docs/design/game-analysis.md)
+
 
 ---
 
