@@ -26,8 +26,8 @@ Desarrollar una implementación completa de Breakout que:
 - respete las mecánicas esenciales del juego original  
 - incorpore una arquitectura modular y escalable  
 - sirva como base para análisis didáctico  
-- permita evolución hacia versiones más complejas  
-
+- permita evolución hacia versiones más complejas
+  
 ---
 
 ## 🧪 Estado del proyecto
@@ -48,3 +48,21 @@ retro-02-breakout-arcade/
 ├── labs/
 ├── assets/
 └── README.md
+```
+
+---
+
+## 👨‍💻 Autor
+
+**Mg. Ing. Ariel Alejandro Vega**  
+Universidad Nacional de Jujuy – Facultad de Ingeniería  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/ariel-alejandro-vega/)  
+📧 avega@fi.unju.edu.ar
+
+---
+
+## 📄 Licencia
+
+MIT License
+
